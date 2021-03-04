@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../gitMac"
+		},
+		{
+			"path": "../../../../../macApp"
+		},
+		{
+			"name": "EdiolProject",
+			"path": "../../../.."
+		},
+		{
+			"name": "Ediol",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
